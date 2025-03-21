@@ -17,6 +17,8 @@ const CURVE_AHEAD_CAMERA = 0.008;
 const CURVE_AHEAD_AIRPLANE = 0.02;
 const AIRPLANE_MAX_ANGLE = 35;
 const FRICTION_DISTANCE = 42;
+//fdsyfisa
+//fsakfhsakdf
 
 export const Experience = () => {
   const curvePoints = useMemo(
