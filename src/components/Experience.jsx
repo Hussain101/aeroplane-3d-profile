@@ -19,6 +19,10 @@ const AIRPLANE_MAX_ANGLE = 35;
 const FRICTION_DISTANCE = 42;
 //fdsyfisa
 //fsakfhsakdf
+//fsakfhsakdf
+//fsakfhsakdf
+//fsakfhsakdf
+
 
 export const Experience = () => {
   const curvePoints = useMemo(
